@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Title.unity
+    guid: d0672e0e9b63fd04196a7e17fa5c8cdd
+  - enabled: 1
+    path: Assets/_Scenes/WayToSchool.unity
+    guid: 08046aef30f44564e916b8c8ed4f792f
+  - enabled: 1
+    path: Assets/_Scenes/Scl_Front.unity
+    guid: 00eb64c6a627e6642bcb3bb058f9b667
+  - enabled: 1
+    path: Assets/_Scenes/In_Class.unity
+    guid: 682a772bbf6e3034f831e060b819fabc
+  - enabled: 1
+    path: Assets/_Scenes/Library.unity
+    guid: 4b77134de7c3135489d3e8dab4199590
+  - enabled: 1
+    path: Assets/_Scenes/WayToHome.unity
+    guid: 367da845da6fcea47b77a47b68c51c63
+  - enabled: 1
+    path: Assets/_Scenes/Last.unity
+    guid: e86620b5e6ba1794d810b03a351f88fd
+  - enabled: 1
+    path: Assets/_Scenes/Ending.unity
+    guid: a183b890672a7ca42af5b37e237d7535
+  m_configObjects: {}
